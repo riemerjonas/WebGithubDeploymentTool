@@ -3,5 +3,6 @@
     "github_repository": "test-repo",
     "github_organization": "test-org",
     "github_username": "test-user",
-    "github_token": "your_github_token_here"
+    "github_token": "your_github_token_here",
+    "logging_type": "html"
 }
