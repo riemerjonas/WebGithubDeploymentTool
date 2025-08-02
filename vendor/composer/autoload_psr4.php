@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jonasriemer\\AutomaticDeployment\\' => array($baseDir . '/src'),
+    'Jonasriemer\\DeploymentTool\\' => array($baseDir . '/src'),
 );

@@ -1,16 +1,14 @@
 {
-    "name": "jonasriemer/automatic-deployment",
-    "description": "Tool for deploying a repository on webserver",
+    "name": "jonasriemer/deployment-tool",
     "autoload": {
         "psr-4": {
-            "Jonasriemer\\AutomaticDeployment\\": "src/",
-            "WebGDTool\\Utilities\\": "src/utilities/"
+            "Jonasriemer\\DeploymentTool\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Jonas Riemer",
-            "email": "kontakt@webdesign-riemer.de"
+            "email": "riemer.jonas@outlook.de"
         }
     ],
     "require": {}
