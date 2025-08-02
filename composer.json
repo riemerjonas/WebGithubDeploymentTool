@@ -3,7 +3,8 @@
     "description": "Tool for deploying a repository on webserver",
     "autoload": {
         "psr-4": {
-            "Jonasriemer\\AutomaticDeployment\\": "src/"
+            "Jonasriemer\\AutomaticDeployment\\": "src/",
+            "WebGDTool\\Utilities\\": "src/utilities/"
         }
     },
     "authors": [
