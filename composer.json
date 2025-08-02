@@ -1,0 +1,16 @@
+{
+    "name": "jonasriemer/automatic-deployment",
+    "description": "Tool for deploying a repository on webserver",
+    "autoload": {
+        "psr-4": {
+            "Jonasriemer\\AutomaticDeployment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonas Riemer",
+            "email": "kontakt@webdesign-riemer.de"
+        }
+    ],
+    "require": {}
+}
